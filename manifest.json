@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Chorcha Button Trigger",
+  "description": "Trigger buttons on the page whose labels contain AI ব্যাখ্যা or ব্যাখ্যা.",
+  "version": "1.0",
+  "permissions": [
+    "scripting",
+    "activeTab"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "action": {
+    "default_title": "Trigger ব্যাখ্যা buttons"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
