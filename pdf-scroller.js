@@ -9,10 +9,17 @@
 
     const css = `
       @media print {
-        .chorcha-pdf-block {
-          break-inside: avoid !important;
+        .chorcha-pdf-block,
+        .chorcha-pdf-block * {
+          break-inside: avoid-page !important;
           page-break-inside: avoid !important;
           -webkit-column-break-inside: avoid !important;
+        }
+
+        .chorcha-pdf-block {
+          display: block !important;
+          page-break-after: auto !important;
+          margin: 0 !important;
         }
 
         .chorcha-pdf-block > * {
@@ -25,15 +32,30 @@
         pre,
         blockquote,
         figure,
-        code {
-          break-inside: avoid !important;
+        code,
+        .LatexRenderer-module__qDybqa__card,
+        .option-css,
+        .solution-css,
+        .card,
+        .infinite-scroll-component,
+        .infinite-scroll-component__outerdiv,
+        .space-y-4,
+        .grid[class*='grid-cols'] {
+          break-inside: avoid-page !important;
           page-break-inside: avoid !important;
           -webkit-column-break-inside: avoid !important;
         }
 
-        body {
+        body,
+        html {
+          color-adjust: exact !important;
+          -webkit-print-color-adjust: exact !important;
           orphans: 3;
           widows: 3;
+        }
+
+        @page {
+          margin: 0.4in;
         }
       }
     `;
@@ -55,33 +77,23 @@
 
   const applyPageBreakProtection = () => {
     const selectors = [
-      "article",
-      "section",
-      "aside",
-      "nav",
-      "main",
-      "figure",
-      "header",
-      "footer",
-      "[role=article]",
-      "[role=main]",
-      "[role=document]",
+      "[class*='border'][class*='rounded']",
+      "[class*='border'][class*='p-5']",
+      "[class*='rounded-xl']",
       "[class*='card']",
-      "[class*='panel']",
       "[class*='question']",
+      "[class*='solution']",
       "[class*='answer']",
       "[class*='explanation']",
-      "[class*='section']",
+      "[class*='option-css']",
+      "[class*='solution-css']",
+      "[class*='LatexRenderer-module__qDybqa__card']",
+      ".infinite-scroll-component",
+      ".infinite-scroll-component__outerdiv",
+      "[class*='space-y-4']",
+      "[class*='grid-cols']",
       "[class*='container']",
-      "[class*='box']",
-      "[class*='grid']",
-      "[class*='group']",
-      "[class*='block']",
       "[class*='content']",
-      "[class*='wrapper']",
-      "[class*='paper']",
-      "[class*='border']",
-      "[class*='rounded']",
       "[data-testid*='card']"
     ];
 
@@ -96,6 +108,10 @@
       }
       const rect = element.getBoundingClientRect();
       if (rect.height < 80 || rect.width < 80) {
+        return false;
+      }
+      const maxCandidateHeight = window.innerHeight * 2.5;
+      if (rect.height > maxCandidateHeight) {
         return false;
       }
       if (element.closest(".chorcha-pdf-block") !== null) {
