@@ -1,0 +1,26 @@
+{
+   "appDel": {
+      "message": "Секция удалена"
+   },
+   "appDesc": {
+      "message": "С легкостью преобразовать или сохранить веб -страницы в PDF"
+   },
+   "appDiscard": {
+      "message": "Отказаться"
+   },
+   "appDownload": {
+      "message": "Скачать"
+   },
+   "appHoverMsg": {
+      "message": "Нажмите, чтобы удалить этот раздел"
+   },
+   "appRevert": {
+      "message": "Все изменения возвращаются"
+   },
+   "appTitle": {
+      "message": "Веб -страница в PDF конвертер"
+   },
+   "appUndo": {
+      "message": "Отменить удаление"
+   }
+}

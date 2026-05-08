@@ -1,0 +1,26 @@
+{
+   "appDel": {
+      "message": "קטע נמחק"
+   },
+   "appDesc": {
+      "message": "להמיר או לשמור דפי אינטרנט ב- PDF בקלות"
+   },
+   "appDiscard": {
+      "message": "להשליך"
+   },
+   "appDownload": {
+      "message": "הורד"
+   },
+   "appHoverMsg": {
+      "message": "לחץ כדי למחוק סעיף זה"
+   },
+   "appRevert": {
+      "message": "כל השינויים מחוברים"
+   },
+   "appTitle": {
+      "message": "דף אינטרנט לממיר PDF"
+   },
+   "appUndo": {
+      "message": "בטל מחיקה"
+   }
+}

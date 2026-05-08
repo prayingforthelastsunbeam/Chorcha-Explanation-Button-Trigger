@@ -1,0 +1,26 @@
+{
+   "appDel": {
+      "message": "Seksyen dipadam"
+   },
+   "appDesc": {
+      "message": "Tukar atau simpan laman web ke PDF dengan mudah"
+   },
+   "appDiscard": {
+      "message": "Buang"
+   },
+   "appDownload": {
+      "message": "Muat turun"
+   },
+   "appHoverMsg": {
+      "message": "Klik untuk memadam bahagian ini"
+   },
+   "appRevert": {
+      "message": "Semua perubahan kembali"
+   },
+   "appTitle": {
+      "message": "Laman web ke penukar pdf"
+   },
+   "appUndo": {
+      "message": "Batalkan padam"
+   }
+}

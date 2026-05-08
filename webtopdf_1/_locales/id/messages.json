@@ -1,0 +1,26 @@
+{
+   "appDel": {
+      "message": "Bagian dihapus"
+   },
+   "appDesc": {
+      "message": "Konversi atau simpan halaman web ke PDF dengan mudah"
+   },
+   "appDiscard": {
+      "message": "Membuang"
+   },
+   "appDownload": {
+      "message": "Unduh"
+   },
+   "appHoverMsg": {
+      "message": "Klik untuk menghapus bagian ini"
+   },
+   "appRevert": {
+      "message": "Semua perubahan dikembalikan"
+   },
+   "appTitle": {
+      "message": "Konverter halaman web ke PDF"
+   },
+   "appUndo": {
+      "message": "Batalkan Hapus"
+   }
+}

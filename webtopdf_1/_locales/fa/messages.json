@@ -1,0 +1,26 @@
+{
+   "appDel": {
+      "message": "بخش حذف شده"
+   },
+   "appDesc": {
+      "message": "با سهولت صفحات وب را به PDF تبدیل یا ذخیره کنید"
+   },
+   "appDiscard": {
+      "message": "دور کردن"
+   },
+   "appDownload": {
+      "message": "دانلود"
+   },
+   "appHoverMsg": {
+      "message": "برای حذف این بخش کلیک کنید"
+   },
+   "appRevert": {
+      "message": "همه تغییرات برگردانده می شوند"
+   },
+   "appTitle": {
+      "message": "صفحه وب به مبدل PDF"
+   },
+   "appUndo": {
+      "message": "حذف حذف"
+   }
+}

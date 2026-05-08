@@ -1,0 +1,26 @@
+{
+   "appDel": {
+      "message": "Seksjonen slettet"
+   },
+   "appDesc": {
+      "message": "Konvertere eller lagre websider til PDF med letthet"
+   },
+   "appDiscard": {
+      "message": "Kast"
+   },
+   "appDownload": {
+      "message": "nedlasting"
+   },
+   "appHoverMsg": {
+      "message": "Klikk for å slette denne delen"
+   },
+   "appRevert": {
+      "message": "Alle endringer blir tilbakeført"
+   },
+   "appTitle": {
+      "message": "Webside til PDF -omformer"
+   },
+   "appUndo": {
+      "message": "Angre sletting"
+   }
+}

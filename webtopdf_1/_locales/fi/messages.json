@@ -1,0 +1,26 @@
+{
+   "appDel": {
+      "message": "Osa poistettu"
+   },
+   "appDesc": {
+      "message": "Muuntaa tai tallenna verkkosivut PDF: ksi helposti"
+   },
+   "appDiscard": {
+      "message": "Hylätä"
+   },
+   "appDownload": {
+      "message": "ladata"
+   },
+   "appHoverMsg": {
+      "message": "Napsauta poistaaksesi tämän osan"
+   },
+   "appRevert": {
+      "message": "Kaikki muutokset palautuvat"
+   },
+   "appTitle": {
+      "message": "Verkkosivu PDF -muunnin"
+   },
+   "appUndo": {
+      "message": "Peruuta poisto"
+   }
+}

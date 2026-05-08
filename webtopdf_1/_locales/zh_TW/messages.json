@@ -1,0 +1,26 @@
+{
+   "appDel": {
+      "message": "刪除部分"
+   },
+   "appDesc": {
+      "message": "輕鬆將網頁轉換或保存到PDF"
+   },
+   "appDiscard": {
+      "message": "丟棄"
+   },
+   "appDownload": {
+      "message": "下載"
+   },
+   "appHoverMsg": {
+      "message": "單擊以刪除本節"
+   },
+   "appRevert": {
+      "message": "所有更改均已恢復"
+   },
+   "appTitle": {
+      "message": "網頁到PDF轉換器"
+   },
+   "appUndo": {
+      "message": "撤銷刪除"
+   }
+}

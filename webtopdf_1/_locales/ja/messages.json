@@ -1,0 +1,26 @@
+{
+   "appDel": {
+      "message": "削除されたセクション"
+   },
+   "appDesc": {
+      "message": "Webページを簡単に変換またはPDFに保存します"
+   },
+   "appDiscard": {
+      "message": "破棄"
+   },
+   "appDownload": {
+      "message": "ダウンロード"
+   },
+   "appHoverMsg": {
+      "message": "このセクションを削除するにはクリックします"
+   },
+   "appRevert": {
+      "message": "すべての変更が戻されます"
+   },
+   "appTitle": {
+      "message": "WebページからPDFコンバーター"
+   },
+   "appUndo": {
+      "message": "削除取り消し"
+   }
+}

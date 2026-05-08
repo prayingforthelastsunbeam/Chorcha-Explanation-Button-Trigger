@@ -1,0 +1,26 @@
+{
+   "appDel": {
+      "message": "Sadaļa ir izdzēsta"
+   },
+   "appDesc": {
+      "message": "Viegli konvertēt vai saglabāt tīmekļa lapas uz PDF"
+   },
+   "appDiscard": {
+      "message": "Atmest"
+   },
+   "appDownload": {
+      "message": "Lejupielādēt"
+   },
+   "appHoverMsg": {
+      "message": "Noklikšķiniet, lai izdzēstu šo sadaļu"
+   },
+   "appRevert": {
+      "message": "Visas izmaiņas tiek atjaunotas"
+   },
+   "appTitle": {
+      "message": "Tīmekļa lapa uz PDF pārveidotāju"
+   },
+   "appUndo": {
+      "message": "Atsaukt dzēst"
+   }
+}

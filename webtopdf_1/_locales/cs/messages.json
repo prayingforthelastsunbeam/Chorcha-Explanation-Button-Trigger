@@ -1,0 +1,26 @@
+{
+   "appDel": {
+      "message": "Sekce odstraněna"
+   },
+   "appDesc": {
+      "message": "Snadno převeďte nebo uložte webové stránky na PDF"
+   },
+   "appDiscard": {
+      "message": "Vyřadit"
+   },
+   "appDownload": {
+      "message": "Stažení"
+   },
+   "appHoverMsg": {
+      "message": "Kliknutím odstraníte tuto část"
+   },
+   "appRevert": {
+      "message": "Všechny změny jsou reverzovány"
+   },
+   "appTitle": {
+      "message": "Webová stránka do převodníku PDF"
+   },
+   "appUndo": {
+      "message": "UNDO smazat"
+   }
+}

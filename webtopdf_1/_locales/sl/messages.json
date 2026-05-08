@@ -1,0 +1,26 @@
+{
+   "appDel": {
+      "message": "Izbrisan razdelek"
+   },
+   "appDesc": {
+      "message": "Z lahkoto pretvorite ali shranite spletne strani v PDF"
+   },
+   "appDiscard": {
+      "message": "Zavrgli"
+   },
+   "appDownload": {
+      "message": "Prenesi"
+   },
+   "appHoverMsg": {
+      "message": "Kliknite, da izbrišete ta razdelek"
+   },
+   "appRevert": {
+      "message": "Vse spremembe so obrnjene"
+   },
+   "appTitle": {
+      "message": "Spletna stran do PDF pretvornika"
+   },
+   "appUndo": {
+      "message": "Undo Delete"
+   }
+}

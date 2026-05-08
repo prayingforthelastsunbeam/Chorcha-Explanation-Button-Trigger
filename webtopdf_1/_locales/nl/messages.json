@@ -1,0 +1,26 @@
+{
+   "appDel": {
+      "message": "Sectie verwijderd"
+   },
+   "appDesc": {
+      "message": "Converteer of sla gak met gemak webpagina's naar PDF"
+   },
+   "appDiscard": {
+      "message": "Weggooien"
+   },
+   "appDownload": {
+      "message": "Downloaden"
+   },
+   "appHoverMsg": {
+      "message": "Klik om dit gedeelte te verwijderen"
+   },
+   "appRevert": {
+      "message": "Alle wijzigingen worden teruggekeerd"
+   },
+   "appTitle": {
+      "message": "Webpagina naar PDF -converter"
+   },
+   "appUndo": {
+      "message": "Verwijderen ongedaan maken"
+   }
+}

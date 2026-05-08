@@ -1,0 +1,26 @@
+{
+   "appDel": {
+      "message": "Odstránený sekcia"
+   },
+   "appDesc": {
+      "message": "Previesť alebo uložiť webové stránky na PDF s ľahkosťou"
+   },
+   "appDiscard": {
+      "message": "Vyradiť"
+   },
+   "appDownload": {
+      "message": "Stiahnuť ▼"
+   },
+   "appHoverMsg": {
+      "message": "Kliknutím vymažíte túto časť"
+   },
+   "appRevert": {
+      "message": "Všetky zmeny sú vrátené"
+   },
+   "appTitle": {
+      "message": "Webová stránka pre konvertor PDF"
+   },
+   "appUndo": {
+      "message": "Odstrániť odstránenie"
+   }
+}

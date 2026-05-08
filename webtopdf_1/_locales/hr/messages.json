@@ -1,0 +1,26 @@
+{
+   "appDel": {
+      "message": "Odjeljak izbrisan"
+   },
+   "appDesc": {
+      "message": "Pretvorite ili spremite web stranice u PDF s lakoćom"
+   },
+   "appDiscard": {
+      "message": "Odbaciti"
+   },
+   "appDownload": {
+      "message": "preuzimanje datoteka"
+   },
+   "appHoverMsg": {
+      "message": "Kliknite da biste izbrisali ovaj odjeljak"
+   },
+   "appRevert": {
+      "message": "Sve promjene se vraćaju"
+   },
+   "appTitle": {
+      "message": "Web stranica za PDF pretvarač"
+   },
+   "appUndo": {
+      "message": "Poništi izbrisati"
+   }
+}

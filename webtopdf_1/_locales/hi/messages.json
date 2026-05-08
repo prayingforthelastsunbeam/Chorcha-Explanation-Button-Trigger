@@ -1,0 +1,26 @@
+{
+   "appDel": {
+      "message": "हटाए गए खंड"
+   },
+   "appDesc": {
+      "message": "आसानी से पीडीएफ में वेब पेज कन्वर्ट या सेव करें"
+   },
+   "appDiscard": {
+      "message": "खारिज करना"
+   },
+   "appDownload": {
+      "message": "डाउनलोड करना"
+   },
+   "appHoverMsg": {
+      "message": "इस अनुभाग को हटाने के लिए क्लिक करें"
+   },
+   "appRevert": {
+      "message": "सभी बदलाव वापस कर दिए जाते हैं"
+   },
+   "appTitle": {
+      "message": "पीडीएफ कनवर्टर को वेबपेज"
+   },
+   "appUndo": {
+      "message": "हटाना पूर्ववत करें"
+   }
+}

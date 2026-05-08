@@ -1,0 +1,26 @@
+{
+   "appDel": {
+      "message": "विभाग हटविला"
+   },
+   "appDesc": {
+      "message": "वेब पृष्ठे सहजतेने पीडीएफमध्ये रूपांतरित करा किंवा जतन करा"
+   },
+   "appDiscard": {
+      "message": "टाकून द्या"
+   },
+   "appDownload": {
+      "message": "डाउनलोड करा"
+   },
+   "appHoverMsg": {
+      "message": "हा विभाग हटविण्यासाठी क्लिक करा"
+   },
+   "appRevert": {
+      "message": "सर्व बदल परत केले आहेत"
+   },
+   "appTitle": {
+      "message": "वेबपृष्ठ ते पीडीएफ कन्व्हर्टर"
+   },
+   "appUndo": {
+      "message": "हटवा हटवा"
+   }
+}

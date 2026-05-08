@@ -1,0 +1,26 @@
+{
+   "appDel": {
+      "message": "تم حذف القسم"
+   },
+   "appDesc": {
+      "message": "قم بتحويل أو حفظ صفحات الويب إلى PDF بسهولة"
+   },
+   "appDiscard": {
+      "message": "ينبذ"
+   },
+   "appDownload": {
+      "message": "تحميل"
+   },
+   "appHoverMsg": {
+      "message": "انقر لحذف هذا القسم"
+   },
+   "appRevert": {
+      "message": "يتم إعادة جميع التغييرات"
+   },
+   "appTitle": {
+      "message": "صفحة الويب إلى محول PDF"
+   },
+   "appUndo": {
+      "message": "التراجع عن حذف"
+   }
+}

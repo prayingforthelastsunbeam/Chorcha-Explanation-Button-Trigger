@@ -1,0 +1,26 @@
+{
+   "appDel": {
+      "message": "Avsnitt raderat"
+   },
+   "appDesc": {
+      "message": "Konvertera eller spara webbsidor till PDF med lätthet"
+   },
+   "appDiscard": {
+      "message": "Kassera"
+   },
+   "appDownload": {
+      "message": "Ladda ner"
+   },
+   "appHoverMsg": {
+      "message": "Klicka för att ta bort det här avsnittet"
+   },
+   "appRevert": {
+      "message": "Alla ändringar återgår"
+   },
+   "appTitle": {
+      "message": "Webpage to PDF -omvandlare"
+   },
+   "appUndo": {
+      "message": "Ångra radera"
+   }
+}

@@ -1,0 +1,26 @@
+{
+   "appDel": {
+      "message": "Розділ видалено"
+   },
+   "appDesc": {
+      "message": "З легкістю перетворити або збережіть веб -сторінки на PDF"
+   },
+   "appDiscard": {
+      "message": "Відкинути"
+   },
+   "appDownload": {
+      "message": "Завантажувати"
+   },
+   "appHoverMsg": {
+      "message": "Клацніть, щоб видалити цей розділ"
+   },
+   "appRevert": {
+      "message": "Всі зміни повернуті"
+   },
+   "appTitle": {
+      "message": "Веб -сторінка до PDF -конвертера"
+   },
+   "appUndo": {
+      "message": "Скасувати видалення"
+   }
+}

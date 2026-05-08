@@ -1,0 +1,26 @@
+{
+   "appDel": {
+      "message": "Section Deleted"
+   },
+   "appDesc": {
+      "message": "Convert or save web pages to PDF with ease"
+   },
+   "appDiscard": {
+      "message": "Discard"
+   },
+   "appDownload": {
+      "message": "Download"
+   },
+   "appHoverMsg": {
+      "message": "Click to Delete this section"
+   },
+   "appRevert": {
+      "message": "All changes are reverted"
+   },
+   "appTitle": {
+      "message": "Webpage to PDF Converter"
+   },
+   "appUndo": {
+      "message": "Undo delete"
+   }
+}

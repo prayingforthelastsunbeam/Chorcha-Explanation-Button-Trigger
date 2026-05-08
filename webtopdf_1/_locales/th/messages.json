@@ -1,0 +1,26 @@
+{
+   "appDel": {
+      "message": "ลบส่วน"
+   },
+   "appDesc": {
+      "message": "แปลงหรือบันทึกหน้าเว็บเป็น PDF ได้อย่างง่ายดาย"
+   },
+   "appDiscard": {
+      "message": "ทิ้ง"
+   },
+   "appDownload": {
+      "message": "การดาวน์โหลด"
+   },
+   "appHoverMsg": {
+      "message": "คลิกเพื่อลบส่วนนี้"
+   },
+   "appRevert": {
+      "message": "การเปลี่ยนแปลงทั้งหมดจะถูกเปลี่ยนกลับ"
+   },
+   "appTitle": {
+      "message": "หน้าเว็บเป็นตัวแปลง PDF"
+   },
+   "appUndo": {
+      "message": "ยกเลิกการลบ"
+   }
+}

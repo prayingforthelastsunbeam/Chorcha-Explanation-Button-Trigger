@@ -1,0 +1,26 @@
+{
+   "appDel": {
+      "message": "Sezione eliminata"
+   },
+   "appDesc": {
+      "message": "Converti o salva le pagine Web in PDF con facilità"
+   },
+   "appDiscard": {
+      "message": "Scartare"
+   },
+   "appDownload": {
+      "message": "Scaricamento"
+   },
+   "appHoverMsg": {
+      "message": "Fare clic per eliminare questa sezione"
+   },
+   "appRevert": {
+      "message": "Tutte le modifiche vengono ripristinate"
+   },
+   "appTitle": {
+      "message": "Pagina Web a convertitore PDF"
+   },
+   "appUndo": {
+      "message": "Annulla eliminare"
+   }
+}

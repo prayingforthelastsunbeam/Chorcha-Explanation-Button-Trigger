@@ -1,0 +1,26 @@
+{
+   "appDel": {
+      "message": "A szakasz törölte"
+   },
+   "appDesc": {
+      "message": "Konvertálja vagy menti a weboldalakat PDF -re könnyedén"
+   },
+   "appDiscard": {
+      "message": "Eldob"
+   },
+   "appDownload": {
+      "message": "Letöltés"
+   },
+   "appHoverMsg": {
+      "message": "Kattintson a szakasz törléséhez"
+   },
+   "appRevert": {
+      "message": "Minden változás visszaáll"
+   },
+   "appTitle": {
+      "message": "Weboldal a pdf konverterhez"
+   },
+   "appUndo": {
+      "message": "Törlés visszavonása"
+   }
+}

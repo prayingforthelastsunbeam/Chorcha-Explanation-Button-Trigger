@@ -1,0 +1,26 @@
+{
+   "appDel": {
+      "message": "Sekcja usunięta"
+   },
+   "appDesc": {
+      "message": "Z łatwością przekonwertuj lub zapisz strony internetowe na PDF"
+   },
+   "appDiscard": {
+      "message": "Wyrzucać"
+   },
+   "appDownload": {
+      "message": "Pobierać"
+   },
+   "appHoverMsg": {
+      "message": "Kliknij, aby usunąć tę sekcję"
+   },
+   "appRevert": {
+      "message": "Wszystkie zmiany są powracane"
+   },
+   "appTitle": {
+      "message": "Strona internetowa do konwertera PDF"
+   },
+   "appUndo": {
+      "message": "Cofanie usunięcia"
+   }
+}

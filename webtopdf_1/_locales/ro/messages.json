@@ -1,0 +1,26 @@
+{
+   "appDel": {
+      "message": "Secțiunea ștersă"
+   },
+   "appDesc": {
+      "message": "Convertiți sau salvați paginile web în PDF cu ușurință"
+   },
+   "appDiscard": {
+      "message": "Aruncă"
+   },
+   "appDownload": {
+      "message": "Descarca"
+   },
+   "appHoverMsg": {
+      "message": "Faceți clic pentru a șterge această secțiune"
+   },
+   "appRevert": {
+      "message": "Toate modificările sunt revenite"
+   },
+   "appTitle": {
+      "message": "Pagina web pentru convertorul PDF"
+   },
+   "appUndo": {
+      "message": "Anulează ștergerea"
+   }
+}

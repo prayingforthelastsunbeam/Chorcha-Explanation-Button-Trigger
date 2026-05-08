@@ -1,0 +1,26 @@
+{
+   "appDel": {
+      "message": "કા delી નાખેલી"
+   },
+   "appDesc": {
+      "message": "સરળતા સાથે વેબ પૃષ્ઠોને પીડીએફમાં કન્વર્ટ કરો અથવા સાચવો"
+   },
+   "appDiscard": {
+      "message": "કા discી નાખવા"
+   },
+   "appDownload": {
+      "message": "ડાઉનલોડ કરવું"
+   },
+   "appHoverMsg": {
+      "message": "આ વિભાગને કા delete ી નાખવા માટે ક્લિક કરો"
+   },
+   "appRevert": {
+      "message": "બધા ફેરફારો પાછા ફર્યા છે"
+   },
+   "appTitle": {
+      "message": "વેબપૃષ્ઠથી પીડીએફ કન્વર્ટર"
+   },
+   "appUndo": {
+      "message": "કા delી નાખો"
+   }
+}

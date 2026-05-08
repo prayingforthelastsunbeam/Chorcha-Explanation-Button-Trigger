@@ -1,0 +1,26 @@
+{
+   "appDel": {
+      "message": "Phần bị xóa"
+   },
+   "appDesc": {
+      "message": "Chuyển đổi hoặc lưu các trang web sang PDF một cách dễ dàng"
+   },
+   "appDiscard": {
+      "message": "Loại bỏ"
+   },
+   "appDownload": {
+      "message": "Tải xuống"
+   },
+   "appHoverMsg": {
+      "message": "Bấm để xóa phần này"
+   },
+   "appRevert": {
+      "message": "Tất cả các thay đổi đều được hoàn nguyên"
+   },
+   "appTitle": {
+      "message": "Trang web đến Trình chuyển đổi PDF"
+   },
+   "appUndo": {
+      "message": "Hoàn tác xóa"
+   }
+}

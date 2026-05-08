@@ -1,0 +1,26 @@
+{
+   "appDel": {
+      "message": "ክፍል ተሰር .ል"
+   },
+   "appDesc": {
+      "message": "ድረ-ገጾችን ወደ ፒዲኤፍ በቀስታ ይለውጡ ወይም ያስቀምጡ"
+   },
+   "appDiscard": {
+      "message": "መጣል"
+   },
+   "appDownload": {
+      "message": "አውርድ"
+   },
+   "appHoverMsg": {
+      "message": "ይህንን ክፍል ለመሰረዝ ጠቅ ያድርጉ"
+   },
+   "appRevert": {
+      "message": "ሁሉም ለውጦች ተረጋግጠዋል"
+   },
+   "appTitle": {
+      "message": "ድረ-ገጽ ወደ ፒዲኤፍ መለወጫ"
+   },
+   "appUndo": {
+      "message": "ሰርዝን ቀልብስ"
+   }
+}

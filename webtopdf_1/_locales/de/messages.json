@@ -1,0 +1,26 @@
+{
+   "appDel": {
+      "message": "Abschnitt gelöscht"
+   },
+   "appDesc": {
+      "message": "Konvertieren oder speichern Sie Webseiten mit Leichtigkeit in PDF"
+   },
+   "appDiscard": {
+      "message": "Verwerfen"
+   },
+   "appDownload": {
+      "message": "Herunterladen"
+   },
+   "appHoverMsg": {
+      "message": "Klicken Sie hier, um diesen Abschnitt zu löschen"
+   },
+   "appRevert": {
+      "message": "Alle Änderungen werden zurückgekehrt"
+   },
+   "appTitle": {
+      "message": "Webseite zum PDF -Konverter"
+   },
+   "appUndo": {
+      "message": "Löschen rückgängig machen"
+   }
+}

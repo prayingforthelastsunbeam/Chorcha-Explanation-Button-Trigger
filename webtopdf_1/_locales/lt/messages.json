@@ -1,0 +1,26 @@
+{
+   "appDel": {
+      "message": "Skyrius ištrintas"
+   },
+   "appDesc": {
+      "message": "Lengvai konvertuokite arba išsaugokite tinklalapius į PDF"
+   },
+   "appDiscard": {
+      "message": "Išmesti"
+   },
+   "appDownload": {
+      "message": "parsisiųsti"
+   },
+   "appHoverMsg": {
+      "message": "Spustelėkite, jei norite ištrinti šį skyrių"
+   },
+   "appRevert": {
+      "message": "Visi pakeitimai yra grąžinti"
+   },
+   "appTitle": {
+      "message": "Tinklalapis į PDF keitiklį"
+   },
+   "appUndo": {
+      "message": "Anuliuoti ištrynimą"
+   }
+}

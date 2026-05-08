@@ -1,0 +1,26 @@
+{
+   "appDel": {
+      "message": "Tinanggal ang seksyon"
+   },
+   "appDesc": {
+      "message": "I -convert o i -save ang mga web page sa PDF nang madali"
+   },
+   "appDiscard": {
+      "message": "Itapon"
+   },
+   "appDownload": {
+      "message": "I -download"
+   },
+   "appHoverMsg": {
+      "message": "Mag -click upang tanggalin ang seksyong ito"
+   },
+   "appRevert": {
+      "message": "Lahat ng mga pagbabago ay binabalik"
+   },
+   "appTitle": {
+      "message": "Webpage sa PDF converter"
+   },
+   "appUndo": {
+      "message": "Ibalik ang nabura"
+   }
+}

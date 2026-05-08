@@ -1,0 +1,26 @@
+{
+   "appDel": {
+      "message": "Secció suprimida"
+   },
+   "appDesc": {
+      "message": "Converteix o desarà les pàgines web a PDF amb facilitat"
+   },
+   "appDiscard": {
+      "message": "Descartar"
+   },
+   "appDownload": {
+      "message": "descarregar"
+   },
+   "appHoverMsg": {
+      "message": "Feu clic per eliminar aquesta secció"
+   },
+   "appRevert": {
+      "message": "Tots els canvis es reverteixen"
+   },
+   "appTitle": {
+      "message": "Pàgina web al convertidor PDF"
+   },
+   "appUndo": {
+      "message": "Desfer elimina"
+   }
+}

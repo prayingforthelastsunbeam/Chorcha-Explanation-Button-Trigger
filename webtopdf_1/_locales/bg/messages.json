@@ -1,0 +1,26 @@
+{
+   "appDel": {
+      "message": "Раздел изтрит"
+   },
+   "appDesc": {
+      "message": "Конвертирайте или запазвайте уеб страници в PDF с лекота"
+   },
+   "appDiscard": {
+      "message": "Изхвърлете"
+   },
+   "appDownload": {
+      "message": "Изтегли"
+   },
+   "appHoverMsg": {
+      "message": "Щракнете, за да изтриете този раздел"
+   },
+   "appRevert": {
+      "message": "Всички промени са отменени"
+   },
+   "appTitle": {
+      "message": "Уеб страница към PDF конвертор"
+   },
+   "appUndo": {
+      "message": "Отменете изтриването"
+   }
+}

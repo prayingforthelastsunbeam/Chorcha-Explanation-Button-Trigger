@@ -1,0 +1,26 @@
+{
+   "appDel": {
+      "message": "Sehemu iliyofutwa"
+   },
+   "appDesc": {
+      "message": "Badilisha au uhifadhi kurasa za wavuti kwa PDF kwa urahisi"
+   },
+   "appDiscard": {
+      "message": "Tupa"
+   },
+   "appDownload": {
+      "message": "Pakua"
+   },
+   "appHoverMsg": {
+      "message": "Bonyeza kufuta sehemu hii"
+   },
+   "appRevert": {
+      "message": "Mabadiliko yote yamebadilishwa"
+   },
+   "appTitle": {
+      "message": "Ukurasa wa wavuti kwa kibadilishaji cha PDF"
+   },
+   "appUndo": {
+      "message": "Tengeneza Futa"
+   }
+}

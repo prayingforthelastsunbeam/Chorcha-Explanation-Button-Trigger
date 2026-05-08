@@ -1,0 +1,26 @@
+{
+   "appDel": {
+      "message": "Bölüm silindi"
+   },
+   "appDesc": {
+      "message": "Web sayfalarını kolaylıkla PDF'ye dönüştürün veya kaydet"
+   },
+   "appDiscard": {
+      "message": "Atmak"
+   },
+   "appDownload": {
+      "message": "İndirmek"
+   },
+   "appHoverMsg": {
+      "message": "Bu bölümü silmek için tıklayın"
+   },
+   "appRevert": {
+      "message": "Tüm değişiklikler tersine döndü"
+   },
+   "appTitle": {
+      "message": "PDF dönüştürücüsüne web sayfası"
+   },
+   "appUndo": {
+      "message": "Silme işlemini geri al"
+   }
+}

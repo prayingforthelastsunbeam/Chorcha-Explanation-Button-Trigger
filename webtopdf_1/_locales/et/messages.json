@@ -1,0 +1,26 @@
+{
+   "appDel": {
+      "message": "Sektsioon kustutatud"
+   },
+   "appDesc": {
+      "message": "Veebilehed teisendage või salvestage PDF -i hõlpsalt"
+   },
+   "appDiscard": {
+      "message": "Äraviskamine"
+   },
+   "appDownload": {
+      "message": "Lae alla"
+   },
+   "appHoverMsg": {
+      "message": "Klõpsake selle jaotise kustutamiseks"
+   },
+   "appRevert": {
+      "message": "Kõik muudatused on tagasi pöördunud"
+   },
+   "appTitle": {
+      "message": "Veebileht PDF -muundurile"
+   },
+   "appUndo": {
+      "message": "Kustutama"
+   }
+}
