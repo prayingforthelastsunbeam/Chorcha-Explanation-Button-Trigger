@@ -17,13 +17,19 @@ This extension scans the current page for all `<button>` elements and triggers t
 
 - Open a page containing buttons labeled `AI ব্যাখ্যা` or `ব্যাখ্যা`.
 - Click the extension icon in the toolbar.
-- The extension will attempt to click all matching buttons on the page.
+- Use the popup buttons to either:
+  - trigger matching explanation buttons, or
+  - save the current page as a real printable PDF.
+- The PDF export now scrolls the page to load lazy content, then uses Chrome's print engine to generate selectable, searchable PDF output.
 
 ## Files
 
 - `manifest.json` - Chrome extension manifest.
-- `background.js` - Handles toolbar clicks and injects the content script.
+- `background.js` - Handles toolbar messages and performs PDF generation.
 - `content.js` - Finds matching buttons and clicks them.
+- `popup.html` - Toolbar popup UI for both actions.
+- `popup.js` - Sends user commands from the popup to the background script.
+- `pdf-scroller.js` - Scrolls the page top-to-bottom before PDF export.
 
 ## Notes
 

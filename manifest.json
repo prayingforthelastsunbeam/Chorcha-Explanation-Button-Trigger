@@ -5,13 +5,16 @@
   "version": "1.0",
   "permissions": [
     "scripting",
-    "activeTab"
+    "activeTab",
+    "downloads",
+    "debugger"
   ],
   "host_permissions": [
     "<all_urls>"
   ],
   "action": {
-    "default_title": "Trigger ব্যাখ্যা buttons"
+    "default_title": "Chorcha Button Trigger",
+    "default_popup": "popup.html"
   },
   "background": {
     "service_worker": "background.js"
