@@ -35,13 +35,19 @@ const base64ToBlob = (base64, contentType) => {
 };
 
 const downloadPdf = async (base64) => {
-  const blob = base64ToBlob(base64, "application/pdf");
-  const objectUrl = URL.createObjectURL(blob);
-  try {
-    await promisify(chrome.downloads.download, { url: objectUrl, filename: "page.pdf", saveAs: false });
-  } finally {
-    setTimeout(() => URL.revokeObjectURL(objectUrl), 10000);
+  if (typeof URL !== "undefined" && typeof URL.createObjectURL === "function") {
+    const blob = base64ToBlob(base64, "application/pdf");
+    const objectUrl = URL.createObjectURL(blob);
+    try {
+      await promisify(chrome.downloads.download, { url: objectUrl, filename: "page.pdf", saveAs: false });
+    } finally {
+      setTimeout(() => URL.revokeObjectURL(objectUrl), 10000);
+    }
+    return;
   }
+
+  const dataUrl = `data:application/pdf;base64,${base64}`;
+  await promisify(chrome.downloads.download, { url: dataUrl, filename: "page.pdf", saveAs: false });
 };
 
 const generatePdf = async (tabId) => {
